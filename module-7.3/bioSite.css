@@ -1,0 +1,40 @@
+#navbar {
+    background-color: #b76e79;
+    overflow: hidden;
+    border-bottom: solid 15px #8a8a8a;
+}
+
+#navbar a {
+    float: right;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+#navbar a:hover {
+    background-color: black;
+    color: white;
+}
+
+#name {
+    font-size: xx-large;
+    padding-left: 4%;
+    margin-top: 10%;
+    margin-bottom: 5%;
+    width: 45%;
+}
+
+q {
+    font-style: italic;
+}
+
+.intro h1 {
+    margin-left: 15%;
+}
+
+.intro p {
+    font-size: medium;
+    font-weight: 300;
+}
