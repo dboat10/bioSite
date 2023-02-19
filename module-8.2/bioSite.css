@@ -1,0 +1,72 @@
+#navbar {
+    background-color: #b76e79;
+    overflow: hidden;
+    border-bottom: solid 15px #8a8a8a;
+}
+
+#navbar a {
+    float: right;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+#navbar a:hover {
+    background-color: black;
+    color: white;
+}
+
+#name {
+    font-size: xx-large;
+    padding-left: 4%;
+    margin-top: 10%;
+    margin-bottom: 5%;
+    width: 45%;
+}
+
+q {
+    font-style: italic;
+}
+
+.intro {
+    width: 50%;
+    text-align: justify;
+}
+
+.intro h1 {
+    margin-left: 15%;
+}
+
+.intro p {
+    font-size: large;
+    font-weight: 300;
+}
+
+.portrait {
+    float: right;
+    width: 350px;
+    height: 300px;
+    padding-right: 20%;
+    margin-top: 10%;
+}
+
+.aboutme-image {
+    float: right;
+    width: 200px;
+    height: 150px;
+    padding-right: 5%;
+}
+
+.image-gallery {
+    display: grid;
+    float: right;
+    padding-right: 5%;
+}
+
+img {
+    width: 500px;
+    height: 700px;
+}
+
