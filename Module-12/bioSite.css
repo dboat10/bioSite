@@ -1,0 +1,141 @@
+#navbar {
+    background-color: #b76e79;
+    overflow: hidden;
+    border-bottom: solid 15px #006360;
+}
+
+#navbar a {
+    float: right;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+#navbar a:hover {
+    background-color: black;
+    color: white;
+}
+
+#name {
+    font-size: xx-large;
+    padding-left: 2.5%;
+    margin-top: 10%;
+    margin-bottom: 5%;
+    width: 45%;
+}
+
+.fullname {
+    color: #006360;
+}
+
+q {
+    font-style: italic;
+}
+
+.intro {
+    width: 50%;
+    text-align: justify;
+    padding-left: 2.5%;
+}
+
+.intro h1 {
+    color: #b76e79;
+}
+
+.intro p {
+    font-size: large;
+    font-weight: 300;
+}
+
+.portrait {
+    float: right;
+    width: 350px;
+    height: 500px;
+    padding-right: 20%;
+    margin-top: 5%;
+}
+
+.portrait img {
+    width: 600px;
+    height: 700px;
+}
+
+.aboutme-image {
+    float: right;
+    width: 200px;
+    height: 150px;
+    padding-right: 5%;
+}
+
+.image-gallery {
+    display: grid;
+    float: right;
+    padding-right: 5%;
+}
+
+img {
+    width: 450px;
+    height: 500px;
+}
+
+figcaption {
+    font-style: italic;
+    font-size: 1em;
+    font-family: 'Oswald', 'Verdana', sans-serif;
+    font-weight: 400;
+}
+
+.hobbies1 {
+    display: grid;
+    float: right;
+    padding-right: 5%;
+}
+
+.hobbies1 img {
+    width: 680px;
+    height: 620px;
+}
+
+.hobbies2 {
+    float: left;
+    padding-left: 10%;
+    margin-top: 20%;
+    position:absolute;
+}
+
+.hobbies2 img {
+    width: 700px;
+    height: 850px;
+}
+
+footer {
+    background-color: #b76e79;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    left: 0;
+}
+
+footer p {
+    color: white;
+    font-weight: 400;
+    float: right;
+    padding-right: 10px;
+    font-style: italic;
+}
+
+footer a {
+    text-decoration: none;
+    color: white;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+#copyright {
+    float: left;
+    padding-left: 10px;
+}
